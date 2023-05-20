@@ -1,0 +1,7 @@
+virologist <v1>
+agens <a> <MemoryLossV> <v1>
+code <c1> <Vaccine> <v1>
+turn <v1>
+attack <a> <v1>
+list
+stat <v1>

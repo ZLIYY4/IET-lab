@@ -1,0 +1,11 @@
+field <f1> <Empty>
+field <f2> <Empty>
+neighbours <f1> <f2>
+virologist <v1> <f1>
+virologist <v2> <f2>
+effect <e1> <MaciEffekt> <v1>
+turn <v1>
+stat <v1>
+stat <v2>
+stat <e1>
+stat <e2>

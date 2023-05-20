@@ -1,0 +1,14 @@
+virologist:[v1]
+agens:[a1]
+effect:[e1]
+
+
+effect:
+id: [e1]
+duration: [1]
+type: [VirusResistentEffect]
+
+agens:
+id:a1
+type: [StunV]
+duration:2

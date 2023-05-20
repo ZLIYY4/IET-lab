@@ -1,0 +1,9 @@
+virologist <v1>
+virologist <v2>
+item <g1> <Glove> setcharacter <v1>
+effect <pae> <ParalyzedEffect> <v1>
+turn <v2>
+steal <v1> <g1>
+list
+stat <v1>
+stat <v2>

@@ -1,0 +1,9 @@
+virologist <v1>
+virologist <v2>
+agens <a1> <StunV> <v1>
+effect <vac1> <VirusResistentEffect> <v2>
+turn <v1>
+attack <a1> <v2>
+list
+stat <v1>
+stat <v2>

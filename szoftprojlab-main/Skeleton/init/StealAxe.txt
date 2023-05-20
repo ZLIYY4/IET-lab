@@ -1,0 +1,9 @@
+virologist <v1>
+virologist <v2>
+item <a1> <Axe> setcharacter <v1>
+effect <e> <ParalyzedEffect> <v1>
+turn <v2>
+steal <v1> <a1>
+list
+stat <v1>
+stat <v2>

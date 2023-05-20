@@ -1,0 +1,14 @@
+virologist:[v1]
+field:[f1]
+gears:[g1]
+effect:[gloveEffect]
+
+virologist:
+id: v1
+code: []
+gears: [g1]
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [gloveEffect]
+

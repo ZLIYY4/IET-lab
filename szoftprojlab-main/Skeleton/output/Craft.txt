@@ -1,0 +1,18 @@
+virologist:[v1]
+agens:[mlV]
+code:[c1]
+
+virologist:
+id: v1
+code: [c1]
+gears: []
+nucleotid: []
+aminoacid: []
+agens: [mlV]
+effects: []
+
+
+agens:
+id:mlV
+type: [MemoryLossV]
+duration:3

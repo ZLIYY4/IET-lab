@@ -1,0 +1,11 @@
+field <f1> <storage>
+field <f2> <storage>
+neighbours <f1> <f2>
+virologist <v1> <f2>
+effect <e> <MaciEffekt> <v1>
+item <am1> <AminoAcid> setfield <f1>
+item <nu1> <Nucleotid> setfield <f1>
+turn <v1>
+list
+stat <v1>
+stat <f1>

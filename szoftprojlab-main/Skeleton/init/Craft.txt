@@ -1,0 +1,13 @@
+virologist <v1>
+code <c1> <MemoryLossV> <v1>
+item <a1> <AminoAcid> setcharacter <v1>
+item <a2> <AminoAcid> setcharacter <v1>
+item <a3> <AminoAcid> setcharacter <v1>
+item <n1> <Nucleotid> setcharacter <v1>
+item <n2> <Nucleotid> setcharacter <v1>
+item <n3> <Nucleotid> setcharacter <v1>
+turn <v1>
+craft <c1>
+list
+stat <v1>
+stat <mlV>

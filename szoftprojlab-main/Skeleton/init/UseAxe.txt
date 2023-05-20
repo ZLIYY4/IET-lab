@@ -1,0 +1,7 @@
+virologist <v1>
+virologist <v2>
+item <a1> <Axe> setcharacter <v1>
+turn <v1>
+attackwaxe <v2>
+list
+stat <v1>

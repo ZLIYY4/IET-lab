@@ -1,0 +1,14 @@
+virologist:[v1]
+field:[f1]
+gears:[b1]
+effect:[backPackEffect]
+
+virologist:
+id: v1
+code: []
+gears: [b1]
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [backPackEffect]
+

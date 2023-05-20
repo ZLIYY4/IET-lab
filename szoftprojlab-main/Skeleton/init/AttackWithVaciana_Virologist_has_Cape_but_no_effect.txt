@@ -1,0 +1,9 @@
+virologist <v1>
+virologist <v2>
+agens <a1> <Vaccine> <v1>
+item <c1> <Cape> setcharacter <v2>
+turn <v1>
+attack <a1> <v2> <false>
+list
+stat <v1>
+stat <v2>

@@ -1,0 +1,24 @@
+virologist:
+id: v1
+code: []
+gears: []
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [e1]
+
+virologist:
+id: v2
+code: []
+gears: []
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [maciEffect]
+
+
+effect:
+id: [e1]
+duration: [0]
+type: [MaciEffect]
+

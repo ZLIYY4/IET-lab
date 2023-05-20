@@ -1,0 +1,23 @@
+virologist:[v1]
+field:[f1, f2]
+
+field:
+id: f1
+Type: empty
+Code: []
+Gears: []
+nucleotid: []
+aminoacid: []
+virologist on the filed: []
+neighbours: [f2]
+
+field:
+id: f2
+Type: empty
+Code: []
+Gears: []
+nucleotid: []
+aminoacid: []
+virologist on the filed: [v1]
+neighbours: [f1]
+

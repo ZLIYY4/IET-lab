@@ -1,0 +1,22 @@
+virologist:[v1, v2]
+gears:[g1]
+effect:[paralyzedEffect, gloveEffect]
+
+virologist:
+id: v1
+code: []
+gears: []
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [paralyzedEffect]
+
+virologist:
+id: v2
+code: []
+gears: [g1]
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [gloveEffect]
+

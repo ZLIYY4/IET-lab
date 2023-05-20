@@ -1,0 +1,22 @@
+virologist:[v1, v2]
+gears:[a1]
+effect:[e, axeEffect]
+
+virologist:
+id: v1
+code: []
+gears: []
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [e]
+
+virologist:
+id: v2
+code: []
+gears: [a1]
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [axeEffect]
+

@@ -1,0 +1,12 @@
+virologist:[v1]
+effect:[paralyzedEffect]
+
+virologist:
+id: v1
+code: []
+gears: []
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [paralyzedEffect]
+

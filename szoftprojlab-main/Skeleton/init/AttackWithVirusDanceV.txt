@@ -1,0 +1,8 @@
+virologist <v1>
+virologist <v2>
+agens <a> <VitusDanceV> <v1>
+turn <v1>
+attack <a> <v2>
+list
+stat <v1>
+stat <v2>

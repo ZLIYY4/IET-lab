@@ -1,0 +1,8 @@
+virologist <v1>
+virologist <v2>
+agens <a1> <StunV> <v1>
+turn <v1>
+attack <a1> <v2>
+list
+stat <v1>
+stat <v2>

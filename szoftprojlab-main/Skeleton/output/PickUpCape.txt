@@ -1,0 +1,14 @@
+virologist:[v1]
+field:[f1]
+gears:[c1]
+effect:[capeEffect]
+
+virologist:
+id: v1
+code: []
+gears: [c1]
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [capeEffect]
+

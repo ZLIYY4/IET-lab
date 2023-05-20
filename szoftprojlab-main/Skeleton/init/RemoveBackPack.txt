@@ -1,0 +1,6 @@
+virologist <v1>
+item <a1> <backpack> setcharacter <v1>
+turn <v1>
+takegearoff <a1>
+list
+stat <v1>

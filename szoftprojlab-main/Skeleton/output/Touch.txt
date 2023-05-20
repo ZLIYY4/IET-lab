@@ -1,0 +1,13 @@
+virologist:[v1]
+field:[f1]
+code:[code]
+
+virologist:
+id: v1
+code: [code]
+gears: []
+nucleotid: []
+aminoacid: []
+agens: []
+effects: []
+

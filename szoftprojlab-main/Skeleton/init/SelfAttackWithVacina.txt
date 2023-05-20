@@ -1,0 +1,6 @@
+virologist <v1>
+agens <a> <Vaccine> <v1>
+turn <v>1
+attack <a> <v1>
+list
+stat <v1>

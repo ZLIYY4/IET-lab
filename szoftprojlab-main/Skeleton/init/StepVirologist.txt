@@ -1,0 +1,7 @@
+virologist <v1>
+effect <e1> <VirusResistentEffect> <v1>
+agens <a1> <StunV> <v1>
+turn <v1>
+list
+stat <e1>
+stat <a1>

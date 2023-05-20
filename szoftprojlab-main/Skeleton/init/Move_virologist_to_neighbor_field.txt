@@ -1,0 +1,9 @@
+field <f1> <Empty>
+field <f2> <Empty>
+virologist <v1> <f1>
+neighbours <f1> <f2>
+turn <v1>
+move <v1> <f2>
+list
+stat <f1>
+stat <f2>

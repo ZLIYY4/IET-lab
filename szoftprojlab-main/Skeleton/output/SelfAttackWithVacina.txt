@@ -1,0 +1,12 @@
+virologist:[v1]
+effect:[virusResistentEffect]
+
+virologist:
+id: v1
+code: []
+gears: []
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [virusResistentEffect]
+

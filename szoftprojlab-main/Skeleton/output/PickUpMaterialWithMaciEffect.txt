@@ -1,0 +1,23 @@
+virologist:[v1]
+field:[f1, f2]
+effect:[e]
+
+virologist:
+id: v1
+code: []
+gears: []
+nucleotid: []
+aminoacid: []
+agens: []
+effects: [e]
+
+field:
+id: f1
+Type: storage
+Code: []
+Gears: []
+nucleotid: []
+aminoacid: []
+virologist on the filed: [v1]
+neighbours: [f2]
+

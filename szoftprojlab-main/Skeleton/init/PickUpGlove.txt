@@ -1,0 +1,7 @@
+field <f1> <refuge>
+virologist <v1> <f1>
+item <a1> <Glove> setfield <f1>
+turn <v1>
+pickup
+list
+stat <v1>
